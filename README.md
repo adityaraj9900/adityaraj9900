@@ -1,34 +1,6 @@
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║          ░█████╗░██████╗░██╗████████╗██╗░░░██╗░█████╗░                       ║
-║          ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗░██╔╝██╔══██╗                       ║
-║          ███████║██║░░██║██║░░░██║░░░░╚████╔╝░███████║                       ║
-║          ██╔══██║██║░░██║██║░░░██║░░░░░╚██╔╝░░██╔══██║                       ║
-║          ██║░░██║██████╔╝██║░░░██║░░░░░░██║░░░██║░░██║                       ║
-║          ╚═╝░░╚═╝╚═════╝░╚═╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝                       ║
-║                                                                              ║
-║              >  SYSTEM ONLINE — NEURAL INTERFACE ACTIVATED                   ║
-║              >  WELCOME TO THE MAINFRAME  v4.0.26                            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-<div align="center">
-
-<a href="https://portfolio-seven-liard-49.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ADITYA%20KUMAR%20MEHTA&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%3C%20ENGINEERING%20THE%20FUTURE%2C%20ONE%20COMMIT%20AT%20A%20TIME%20%2F%3E&descSize=18&descAlignY=58&stroke=00F5FF&strokeWidth=2" width="100%" />
-</a>
-
-</div>
-
 <!-- ╭─── HOLOGRAPHIC TYPING HEADER ────────────────────────────────────────╮ -->
 
 <div align="center">
-
-```ansi
-┌─[ aditya@mainframe:~ ]─[ 02:47:19 ] 
-└──╼ $ ./identity --init --mode=cyberpunk
-```
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=160&lines=%E2%9A%A1+FULL-STACK+ENGINEER;%F0%9F%A7%A0+AI%2FML+ARCHITECT;%F0%9F%8E%AF+COMPETITIVE+PROGRAMMER;%F0%9F%9A%80+I+don%27t+build+websites.+I+build+experiences." />
