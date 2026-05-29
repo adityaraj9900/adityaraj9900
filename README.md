@@ -35,7 +35,7 @@
 const aditya: Developer = {
   identity:    "Aditya Kumar Mehta",
   role:        "SDE I @ Woro",
-  location:    "Noida, India  →  Everywhere",
+  location:    "Gurugram, India  →  Everywhere",
   education:   "B.Tech CSE, Sharda University",
   
   stack: {
@@ -46,7 +46,7 @@ const aditya: Developer = {
     databases:  ["MongoDB", "MySQL"]
   },
 
-  currentlyShipping: "Enterprise CRM → 500+ daily users",
+  currentlyShipping: "10+ enterprise products @ Woro Global",
   nextObsession:     "Agentic systems & real-time inference",
   
   philosophy: [
@@ -353,9 +353,27 @@ role:    Owner — 15+ modules
 
 ### `<experience />`
 
-**💼 Software Development Engineer I**
-`Woro — Gurugram`
-> Leading development of an enterprise CRM platform (15+ modules) using Vue.js and Laravel. Building REST APIs, client-facing websites, and internal tools supporting 500+ daily active users.
+**💼 Software Development Engineer I** `→ CURRENT`
+`Woro Global — Gurugram` · [woro.co.in](https://woro.co.in/)
+> AI-first product studio shipping enterprise apps, AI voice agents & WhatsApp CRM solutions. Delivering 10+ production products across healthcare, real estate, travel & SaaS.
+
+```diff
++ Products : WeCare Healthcare · Woro AI Voice · Woro Chat · Squarevize · IGRE · Global Vacations · Task Manager
++ Focus    : Full-stack development · AI integrations · System architecture
++ Scale    : Multi-tenant enterprise solutions shipped to production
+```
+
+---
+
+**💼 Software Development Engineer I** `→ PREVIOUS`
+`OGA Business Solutions — Noida` · [ogabusinesssolutions.in](https://www.ogabusinesssolutions.in/)
+> Built the company website from scratch. Delivered client projects for international brands and engineered 15+ WhatsApp CRM modules powering 500+ daily active users.
+
+```diff
++ Built   : ogabusinesssolutions.in (from scratch) · delidel.co · rjsfoods.com
++ CRM     : 15+ integrated WhatsApp CRM modules
++ Scale   : 500+ daily active users in production
+```
 
 ### `<education />`
 
