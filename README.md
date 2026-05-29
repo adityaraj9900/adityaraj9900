@@ -34,7 +34,7 @@
 ```ts
 const aditya: Developer = {
   identity:    "Aditya Kumar Mehta",
-  role:        "SDE I @ OGA Business Solutions",
+  role:        "SDE I @ Woro",
   location:    "Noida, India  →  Everywhere",
   education:   "B.Tech CSE, Sharda University",
   
@@ -354,7 +354,7 @@ role:    Owner — 15+ modules
 ### `<experience />`
 
 **💼 Software Development Engineer I**
-`OGA Business Solutions — Noida`
+`Woro — Gurugram`
 > Leading development of an enterprise CRM platform (15+ modules) using Vue.js and Laravel. Building REST APIs, client-facing websites, and internal tools supporting 500+ daily active users.
 
 ### `<education />`
