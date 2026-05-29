@@ -394,7 +394,7 @@ role:    Owner — 15+ modules
   "linkedin":  "/in/aditya-kumar-mehta-573b3336a",
   "github":    "@adityaraj9900",
   "codolio":   "/profile/8XC3FILo",
-  "location":  "Noida, IN",
+  "location":  "Gurgaon, IN",
   "timezone":  "UTC+5:30"
 }
 ```
