@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20SYSTEM%20STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/%F0%9F%94%8C%20OPEN%20TO%20WORK-ACCEPTING%20OPPORTUNITIES-00F5FF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20NODE-NOIDA%2C%20IN-FF006E?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20NODE-GURGAON%2C%20IN-FF006E?style=for-the-badge&labelColor=000000" />
 
 <br/>
 
