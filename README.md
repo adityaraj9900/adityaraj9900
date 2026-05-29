@@ -358,7 +358,7 @@ role:    Owner — 15+ modules
 > AI-first product studio shipping enterprise apps, AI voice agents & WhatsApp CRM solutions. Delivering 10+ production products across healthcare, real estate, travel & SaaS.
 
 ```diff
-+ Products : WeCare Healthcare · Woro AI Voice · Woro Chat · Squarevize · IGRE · Global Vacations · Task Manager
++ Products : Healthcare Platform · AI Voice Agent · WhatsApp CRM · Corporate Services · Real Estate · Travel Portal · Task Manager
 + Focus    : Full-stack development · AI integrations · System architecture
 + Scale    : Multi-tenant enterprise solutions shipped to production
 ```
@@ -366,11 +366,11 @@ role:    Owner — 15+ modules
 ---
 
 **💼 Software Development Engineer I** `→ PREVIOUS`
-`OGA Business Solutions — Noida` · [ogabusinesssolutions.in](https://www.ogabusinesssolutions.in/)
+`OGA Business Solutions — Noida`
 > Built the company website from scratch. Delivered client projects for international brands and engineered 15+ WhatsApp CRM modules powering 500+ daily active users.
 
 ```diff
-+ Built   : ogabusinesssolutions.in (from scratch) · delidel.co · rjsfoods.com
++ Built   : Company website (from scratch) · E-commerce client sites · F&B brand web presence
 + CRM     : 15+ integrated WhatsApp CRM modules
 + Scale   : 500+ daily active users in production
 ```
