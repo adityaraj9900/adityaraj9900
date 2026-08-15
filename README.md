@@ -34,7 +34,7 @@
 ```ts
 const aditya: Developer = {
   identity:    "Aditya Kumar Mehta",
-  role:        "SDE I @ Woro",
+  role:        "SDE I @ vynexa",
   location:    "Gurugram, India  →  Everywhere",
   education:   "B.Tech CSE, Sharda University",
   
@@ -46,7 +46,7 @@ const aditya: Developer = {
     databases:  ["MongoDB", "MySQL"]
   },
 
-  currentlyShipping: "10+ enterprise products @ Woro Global",
+  currentlyShipping: "10+ enterprise products @ vynexa Global",
   nextObsession:     "Agentic systems & real-time inference",
   
   philosophy: [
@@ -354,7 +354,7 @@ role:    Owner — 15+ modules
 ### `<experience />`
 
 **💼 Software Development Engineer I** `→ CURRENT`
-`Woro Global — Gurugram` · [woro.co.in](https://woro.co.in/)
+`vynexa — Gurugram` · [](https://vynexa.ai/)
 > AI-first product studio shipping enterprise apps, AI voice agents & WhatsApp CRM solutions. Delivering 10+ production products across healthcare, real estate, travel & SaaS.
 
 ```diff
